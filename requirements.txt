@@ -1,6 +1,11 @@
 flask
-flask-smorest
-python-dotenv
+Flask-Smorest
 sqlalchemy
-flask-sqlalchemy
+Flask-SQLAlchemy
 mysqlclient
+Flask-JWT-Extended
+passlib
+marshmallow
+python-dotenv
+gunicorn
+flask-migrate
